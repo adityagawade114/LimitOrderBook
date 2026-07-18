@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Limit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Order.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aditya Gawade\Limit-Order-Book\Process_Orders\OrderPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aditya Gawade\Limit-Order-Book\Generate_Orders\GenerateOrders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Book.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Limit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aditya Gawade\Limit-Order-Book\Limit_Order_Book\Order.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aditya Gawade\Limit-Order-Book\Process_Orders\OrderPipeline.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aditya Gawade\Limit-Order-Book\Generate_Orders\GenerateOrders.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aditya Gawade\Limit-Order-Book\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0A3539D0-FB89-3231-A638-672EBE52DBCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7BB18611-7928-32F4-B127-15FAD0AF159A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
